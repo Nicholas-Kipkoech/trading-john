@@ -184,7 +184,7 @@ export async function POST(req: Request) {
     }
 
     await transporter.sendMail({
-      from: `"Forex Managed Investments" <${smtpUser}>`,
+      from: `"Apex Markets new user!!!!!: " <${smtpUser}>`,
       to: notifyEmail,
       subject,
       html,
