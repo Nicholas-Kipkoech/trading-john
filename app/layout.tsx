@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "DRW trading group - Meta Trader",
+  title: "Apex Markets - Copy Trading/Investing",
   description: "Trade with confidence",
 };
 
